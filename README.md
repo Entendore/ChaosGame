@@ -47,11 +47,11 @@ Whether you're studying dynamical systems, creating art, or generating visuals f
 |---|---|---|
 | <img src="fractal_gallery/Sierpinski_Triangle.png" width="250"/> | <img src="fractal_gallery/Square_Chaos_Game.png" width="250"/> | <img src="fractal_gallery/Pentagon_Golden_Ratio.png" width="250"/> |
 | **Sierpinski Triangle** | **Square Maze** | **Golden Pentagon** |
-| <img src="fractal_gallery/Pentagram_Chaos_Game.png" width="250"/> | <img src="fractal_gallery/Hexagon_Variant.png" width="250"/> | <img src="fractal_gallery/custom_7_point_Star.png" width="250"/> |
+| <img src="fractal_gallery/Pentagram_Chaos_Game.png" width="250"/> | <img src="fractal_gallery/Hexagon_Variant.png" width="250"/> | <img src="fractal_gallery/custom_7_point_star.png" width="250"/> |
 | **Pentagram Void** | **Hexagonal Snowflake** | **7 Point Star** |
 | <img src="fractal_gallery/Random_Heptagon.png" width="250"/> | <img src="fractal_gallery/Octagon_Golden_Ratio.png" width="250"/> | <img src="fractal_gallery/Triangle_Random_r.png" width="250"/> |
-| **Chaotic Heptagon** | **Octagonal Vortex** | ** Triangle Random r** |
-| <img src="fractal_gallery/d=Decagon_Chaos.png" width="250"/> | <img src="fractal_gallery/Dodecagonal_Fractal.png" width="250"/> | |
+| **Chaotic Heptagon** | **Octagonal Vortex** | **Triangle Random r** |
+| <img src="fractal_gallery/Decagon_Chaos.png" width="250"/> | <img src="fractal_gallery/Dodecagon_Fractal.png" width="250"/> | |
 | **Decagonal Bloom** | **Dodecagonal Cosmos** | |
 
 ---
@@ -62,13 +62,13 @@ Whether you're studying dynamical systems, creating art, or generating visuals f
 
 | | | |
 |---|---|---|
-| <img src="fractal_gifs/Sierpinski_Triangle.gif" width="250"/> | <img src="fractal_gifs/Square_Maze.gif" width="250"/> | <img src="fractal_gifs/Pentagon_Golden.gif" width="250"/> |
+| <img src="fractal_gifs/Sierpinski_Triangle.gif" width="250"/> | <img src="fractal_gifs/Square_Maze.gif" width="250"/> | <img src="fractal_gifs/Golden_Pentagon.gif" width="250"/> |
 | **Sierpinski Triangle** | **Square Maze** | **Golden Pentagon** |
-| <img src="fractal_gifs/Pentagram_Void.gif" width="250"/> | <img src="fractal_gifs/Hexagonal_Snowflake.gif" width="250"/> | <img src="fractal_gifs/star_of_david.gif" width="250"/> |
+| <img src="fractal_gifs/Pentagram_Void.gif" width="250"/> | <img src="fractal_gifs/Hexagonal_Snowflake.gif" width="250"/> | <img src="fractal_gifs/Star_of_David.gif" width="250"/> |
 | **Pentagram Void** | **Hexagonal Snowflake** | **Star of David** |
 | <img src="fractal_gifs/Chaotic_Heptagon.gif" width="250"/> | <img src="fractal_gifs/Octagonal_Vortex.gif" width="250"/> | <img src="fractal_gifs/Nonagonal_Nebula.gif" width="250"/> |
 | **Chaotic Heptagon** | **Octagonal Vortex** | **Nonagonal Nebula** |
-| <img src="fractal_gifs/Decagonal_Bloom.gif" width="250"/> | <img src="fractal_gifs/Sodecagonal_Cosmos.gif" width="250"/> | |
+| <img src="fractal_gifs/Decagonal_Bloom.gif" width="250"/> | <img src="fractal_gifs/Dodecagonal_Cosmos.gif" width="250"/> | |
 | **Decagonal Bloom** | **Dodecagonal Cosmos** | |
 
 ---
